@@ -25,4 +25,4 @@ miles_driven = float(input(f"How many miles will you drive the {car_name}?"))
 gallons_needed = miles_driven/car_mpg
 
 #display with F
-print(f"{gallons_needed:.2f} gallons of gas are needed {car_name} {miles_driven}")
+print(f"{gallons_needed:.2f} gallons of gas are needed to drive the {car_name} {miles_driven}")
