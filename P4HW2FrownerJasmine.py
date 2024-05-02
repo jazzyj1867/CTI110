@@ -1,3 +1,10 @@
+#FrownerJasmine
+#04/28/2024
+#P4HW2
+#student ability to edit and enhance exiting programs
+
+
+
 '''
 Asks the user employee name
 Enter user pay rate and hours worked
@@ -50,4 +57,3 @@ print("Total number of employees entered:", total_employees)
 print("Total amount paid for overtime:", total_overtime_pay)
 print("Total amount paid for regular hours:", total_regular_pay)
 print("Total amount paid in gross:", total_gross_pay)
-
